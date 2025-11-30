@@ -10,5 +10,5 @@ Node* Node::next() const
 
 Link* Node::getData() const
 {
-    return link_;
+	return link_;
 }
